@@ -336,7 +336,7 @@ If you use CloudWatch Logs Export to back up logs, Service Side Encryption for S
 
 > KMS Key Arn information for SSE application should be set in /app/cloudwatch/log/export/s3/kms/arn Key of Parameter Store.
 
-#### 5.2. AppLogSSEEventForPutObject Lambda Function CloudWatch Events 설정 방법
+#### 5.2. How to set up ppLogSSEEventForPutObject Lambda Function CloudWatch Events?
 
 1. Access the CloudWatch > Events > Rules screen of each integrated log account
 
