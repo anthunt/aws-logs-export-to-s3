@@ -139,7 +139,7 @@ The collection schedule applies the collection schedule by creating a CloudWatch
 
   8. Enter S3 Link URL
 
-     > - https://s3.&lt;Your Selected Region&gt;.amazonaws.com/&lt;each account Profile Name&gt;-s3-logs-collector-lambda/Layer/python.zip
+     > - https:\/\/s3.&lt;Your Selected Region&gt;.amazonaws.com/&lt;each account Profile Name&gt;-s3-logs-collector-lambda/Layer/python.zip
 
   9. Select python3.8 Compatible runtimes
 
